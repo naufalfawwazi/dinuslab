@@ -33,9 +33,9 @@ Beberapa persyaratan sistem yang perlu diperhatikan sebelum mengakses aplikasi D
 
 - Sistem operasi Android Nougat (7.0) atau lebih baru
 - Akses konektivitas internet
-- Akses kamera (khusus Asisten)
+- Akses kamera dan gps (khusus Asisten)
 - Akses penyimpanan internal (khusus Administrator)
-- Ruang penyimpanan minimal 15 MB, direkomendasikan 30 MB
+- Ruang penyimpanan minimal 25 MB, direkomendasikan 30 MB
 
 ## Fitur untuk Asisten
 Fitur aplikasi pada sisi Asisten serta cara penggunaannya dapat anda lihat pada berikut ini: 
