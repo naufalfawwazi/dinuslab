@@ -119,8 +119,8 @@ Administrator dapat melakukan pengelolaan akun-akun administrator lainnya serta 
 
 Berikut adalah langkah sederhana dalam instalasi aplikasi Dinuslab: 
 
-1. Silakan unduh aplikasi pada file yang tersedia di repository ini, atau [unduh disini](https://github.com/naufalfawwazi/dinuslab/blob/develop/dinuslab-v1.2.0.apk).
-2. Setelah aplikasi terunduh, buka "dinuslab-v1.0.0.apk" (v1.0.0 merupakan contoh dari versi aplikasi yang terunduh), kemudian lakukan instalasi sesuai alur instalasi dari masing-masing ponsel hingga selesai.
+1. Silakan unduh aplikasi pada file yang tersedia di repository ini, atau [unduh disini](https://github.com/naufalfawwazi/dinuslab/raw/develop/dinuslab.apk).
+2. Setelah aplikasi terunduh, buka "dinuslab.apk", kemudian lakukan instalasi sesuai alur instalasi dari masing-masing ponsel hingga selesai.
 3. Jika berhasil terpasang, silakan buka aplikasi untuk mulai mengakses aplikasi Dinuslab.
 
 ## Video Penjelasan
